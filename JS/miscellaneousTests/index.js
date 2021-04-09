@@ -1,4 +1,4 @@
-import string from './stringTest.js';
+import string from '../stringTest.js';
 const meAndMyBrothers = ['Llevi', 'Lucas', 'Lincoln'];
 const HRtag = ['<HR          />', '<HR         SIZE    =      14   />'];
 const repetitions =
